@@ -1,0 +1,10 @@
+{
+  "vehicles": [
+    { "id": "1", "make": "Toyota", "model": "Hilux", "year": 2021, "price": 45000, "colour": "White", "status": "available", "odo": 34200 },
+    { "id": "2", "make": "Ford", "model": "Ranger", "year": 2022, "price": 52000, "colour": "Silver", "status": "sold", "odo": 12800 },
+    { "id": "3", "make": "Hyundai", "model": "i30", "year": 2020, "price": 28000, "colour": "Blue", "status": "available", "odo": 61500 },
+    { "id": "4", "make": "Mazda", "model": "CX-5", "year": 2023, "price": 41000, "colour": "Red", "status": "available", "odo": 8900 },
+    { "id": "5", "make": "Toyota", "model": "Camry", "year": 2019, "price": 23500, "colour": "Black", "status": "reserved", "odo": 88000 },
+    { "id": "6", "make": "Kia", "model": "Sportage", "year": 2022, "price": 38500, "colour": "Grey", "status": "available", "odo": 22100 }
+  ]
+}
